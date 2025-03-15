@@ -1,6 +1,12 @@
 # pokedexcli
 
+CLI to interact with pokeapi
+pokeapi can be found in internal/pokeapi/pokeapi.go
+
+## Installation
+```bash
 git clone https://github.com/chaeanthony/pokedexcli.git
+```
 
 #### Commands
 1. catch: Attempt to catch a Pokémon
